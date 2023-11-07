@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: CMS 曲案まとめ
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "CMSの曲案をまとめたサイトです。"
 permalink: /
 ---
 
