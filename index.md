@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMS 曲案まとめ
+title: Home
 nav_order: 1
 description: "CMSの曲案をまとめたサイトです。"
 permalink: /
