@@ -26,6 +26,8 @@ permalink: /
 
 第n回春/秋季、前/中/メイン、曲案の、全三段階構成にしてまとめています。
 
+通った曲（実際に演奏した曲）は⭐️マーク表示をしています。
+
 ## サイトについて
 <a href="https://docs.github.com/ja/pages">GitHub Pages</a>（+Jekyll）を使用しており、ずっと無料です！！！
 
