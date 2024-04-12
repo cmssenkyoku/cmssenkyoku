@@ -4,7 +4,7 @@ title: 中曲
 parent: 第104回春季
 has_children: true
 nav_order: 2
-permalink: /docs/104/nakakyoku
+permalink: /docs/104/naka
 ---
 
 
